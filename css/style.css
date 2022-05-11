@@ -19,7 +19,7 @@ p{
 
 .main-content{
     min-height: 1000px;
-    width: 100%;
+    width: 90%;
     margin: auto;
     display: grid;
     grid-template-columns: 300px 700px;

@@ -1,0 +1,15 @@
+"*":
+  core:
+    telemetryConsent: "no"
+  editor:
+    fontSize: 15
+  "exception-reporting":
+    userId: "d98675e9-6d35-4963-8d94-0589b265e2b6"
+  "linter-eslint":
+    autofix:
+      fixOnSave: true
+      ignoreFixableRulesWhileTyping: true
+    global:
+      useGlobalEslint: true
+    lintHtmlFiles: true
+  welcome: {}
